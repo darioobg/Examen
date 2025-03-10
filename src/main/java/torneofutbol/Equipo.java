@@ -7,6 +7,7 @@ public class Equipo {
     private int[] dorsalesJugadores;
     private int cantidadJugadores;
     private String nombreEquipo;
+    private String pruba;
 
     public Equipo(String nombreEquipo) {
         this.nombreEquipo = nombreEquipo;
